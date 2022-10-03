@@ -1,0 +1,2 @@
+# CommentToMail
+一款能够实时将Typecho评论以邮件的形式通知博主的插件
